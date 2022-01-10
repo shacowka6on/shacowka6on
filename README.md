@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shacowka6on
 - 👀 I’m interested in becoming Junior QA
-- 🌱 I’m currently learning c#, c++, sql, javascript, python.
-- 💞️ I’m looking to collaborate on ... nothing at the moment, I am still learning 
+- 🌱 I’m currently learning c# and java script. 
 - 📫 How to reach me - georgievaleks854@gmail.com
 
 <!---
