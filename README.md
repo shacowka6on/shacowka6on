@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shacowka6on
+- 👋 Hi, I’m sashimen
 - 👀 I’m interested in becoming Junior QA
 - 🌱 I’m currently learning c# and java script. 
 - 📫 How to reach me - georgievaleks854@gmail.com
