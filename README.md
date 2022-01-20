@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sashimen
-- 👀 I’m interested in becoming Junior QA
+- 👀 I’m interested in C# and becoming a full-stack developer
 - 🌱 I’m currently learning c# and java script. 
 - 📫 How to reach me - georgievaleks854@gmail.com
 
