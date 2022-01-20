@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sashimen
 - 👀 I’m interested in C# and becoming a full-stack developer
-- 🌱 I’m currently learning c# and java script. 
+- 🌱 I’m currently learning c#, go and java script. 
 - 📫 How to reach me - georgievaleks854@gmail.com
 
 <!---
