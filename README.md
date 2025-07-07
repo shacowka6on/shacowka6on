@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there 👋
 
 IT student exploring backend and fullstack development with a focus on C# and .NET. Currently building personal projects to improve at structuring web apps, working with databases, and writing better code in general.
 
