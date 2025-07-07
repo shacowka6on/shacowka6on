@@ -4,7 +4,7 @@ IT student exploring backend and fullstack development with a focus on C# and .N
 
 ---
 
-## 🧱 Skills
+🧱 Skills
 
 - C# / ASP.NET Core (Web APIs, EF Core, services, DI)
 - SQL / MSSQL
@@ -13,7 +13,7 @@ IT student exploring backend and fullstack development with a focus on C# and .N
 
 ---
 
-## 📌 Currently Learning
+📌 Currently Learning
 
 - Fullstack project structure (splitting backend/frontend)
 - Clean architecture and design patterns
